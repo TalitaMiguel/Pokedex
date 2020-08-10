@@ -1,0 +1,10 @@
+.navbar-light .navbar-brand {
+    font-size: 2rem;
+    font-weight: 700;
+    padding-left: 6.5rem;
+}
+
+.navbar-light .navbar-brand:focus, 
+.navbar-light .navbar-brand:hover {
+    color: #8BBE8A;
+}

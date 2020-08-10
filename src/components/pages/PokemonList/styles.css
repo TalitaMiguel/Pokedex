@@ -1,0 +1,30 @@
+.PokemonList .next {
+    width: 7.4rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: black;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    padding-left: 0.5rem;
+    cursor: pointer;
+    text-decoration: none;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    background: #7ACC7B;
+    opacity: 0.7;
+}
+
+.PokemonList .next:hover {
+    opacity: 1;
+}
+
+.PokemonList .next img {
+    width: 1.5rem;
+    margin: 2px 10px 0;
+}
